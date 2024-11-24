@@ -1,6 +1,6 @@
 name = "LLVMLibUnwind_jll"
 uuid = "47c5dbc3-30ba-59ef-96a6-123e260183d9"
-version = "18.1.7+0"
+version = "19.1.4+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
